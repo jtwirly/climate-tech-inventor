@@ -1,4 +1,4 @@
-# Projects
+# Climate Tech Projects
 
 ```codecard
 [
@@ -14,7 +14,18 @@
         "imageUrl": "/static/mb/projects/clap-lights.png"
     },
     {
-        "name": "Live Coding",
+        "name": "Science Experiment Videos",
+        "url": "/science-experiments",
+        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
+    }
+]
+```
+
+## Other
+```codecard
+[
+    {
+        "name": "Live Coding Videos",
         "url": "/live-coding",
         "imageUrl": "/static/live-coding/yFviqqPlWyQ.jpg"
     },
@@ -25,18 +36,6 @@
     {
         "name": "Radio Games",
         "url": "/projects/radio-games"
-    },
-    {
-        "name": "Fashion",
-        "url": "/projects/fashion"
-    },
-    {
-        "name": "Music",
-        "url": "/projects/music"
-    },
-    {
-        "name": "Toys",
-        "url": "/projects/toys"
     },
     {
         "name": "Science",
@@ -74,11 +73,6 @@
         "name": "Behind the MakeCode Hardware",
         "url": "/behind-the-makecode-hardware",
         "imageUrl": "/static/mb/behindhardware/leds.jpg"
-    },
-    {
-        "name": "Science Experiments",
-        "url": "/science-experiments",
-        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
     },
     {
         "name": "Coding for Teachers",
