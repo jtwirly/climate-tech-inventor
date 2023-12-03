@@ -1,5 +1,6 @@
 # Projects
 
+## Climate Tech Projects
 ```codecard
 [
     {
@@ -13,6 +14,18 @@
         "url": "/tutorials-v2",
         "imageUrl": "/static/mb/projects/clap-lights.png"
     },
+    {
+        "name": "Science Experiments",
+        "url": "/science-experiments",
+        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
+    }
+]
+```
+
+## Other
+
+```codecard
+[
     {
         "name": "Live Coding",
         "url": "/live-coding",
@@ -74,11 +87,6 @@
         "name": "Behind the MakeCode Hardware",
         "url": "/behind-the-makecode-hardware",
         "imageUrl": "/static/mb/behindhardware/leds.jpg"
-    },
-    {
-        "name": "Science Experiments",
-        "url": "/science-experiments",
-        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
     },
     {
         "name": "Coding for Teachers",
