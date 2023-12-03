@@ -1,9 +1,10 @@
-# Projects
+# Climate Tech Projects
 
+## Climate Tech
 ```codecard
 [
     {
-        "name": "Tutorials",
+        "name": "Tutorials for Arduino",
         "url": "/tutorials",
         "imageUrl": "/static/mb/projects/a1-display.png",
         "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
@@ -14,49 +15,40 @@
         "imageUrl": "/static/mb/projects/pet-hamster.png"
     },
     {
-        "name": "Live Coding",
+        "name": "Science Experiment Videos",
+        "url": "/science-experiments",
+        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
+    },
+    {
+        "name": "Science",
+        "url": "/projects/science"
+    }
+]
+```
+
+## Other
+```codecard
+[
+    {
+        "name": "Live Coding Videos",
         "url": "/live-coding",
         "imageUrl": "/static/live-coding/NvEOKZ8wh9s.jpg"
     },
     {
         "name": "Games",
-        "url": "/projects/games",
-        "imageUrl": "/static/mb/projects/a4-motion.png"
+        "url": "/projects/games"
     },
     {
         "name": "Radio Games",
-        "url": "/projects/radio-games",
-        "imageUrl": "/static/multi.png"
-    },
-    {
-        "name": "Fashion",
-        "url": "/projects/fashion",
-        "imageUrl": "/static/mb/projects/wallet.png"
-    },
-    {
-        "name": "Music",
-        "url": "/projects/music",
-        "imageUrl": "/static/mb/projects/a6-music.png"
-    },
-    {
-        "name": "Toys",
-        "url": "/projects/toys",
-        "imageUrl": "/static/mb/projects/inchworm.jpg"
-    },
-    {
-        "name": "Science",
-        "url": "/projects/science",
-        "imageUrl": "/static/mb/projects/timegate.jpg"
+        "url": "/projects/radio-games"
     },
     {
         "name": "Tools",
-        "url": "/projects/tools",
-        "imageUrl": "/static/mb/projects/stopwatch.png"
+        "url": "/projects/tools"
     },
     {
         "name": "Turtle",
-        "url": "/projects/turtle",
-        "imageUrl": "/static/mb/projects/turtle-square.png"
+        "url": "/projects/turtle"
     },
     {
         "name": "Blocks to JavaScript",
@@ -66,7 +58,7 @@
     {
         "name": "Courses",
         "url": "/courses",
-        "imageUrl": "/static/courses/csintro.jpg"
+        "imageUrl": "/static/courses/first-lessons.png"
     },
     {
         "name": "Jacdac",
@@ -82,11 +74,6 @@
         "name": "Behind the MakeCode Hardware",
         "url": "/behind-the-makecode-hardware",
         "imageUrl": "/static/mb/behindhardware/leds.jpg"
-    },
-    {
-        "name": "Science Experiments",
-        "url": "/science-experiments",
-        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
     },
     {
         "name": "Coding for Teachers",
