@@ -4,7 +4,7 @@
 ```codecard
 [
     {
-        "name": "Tutorials",
+        "name": "Climate Tech Tutorials for Arduino",
         "url": "/tutorials",
         "imageUrl": "/static/mb/projects/a1-display.png",
         "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
@@ -15,7 +15,7 @@
         "imageUrl": "/static/mb/projects/clap-lights.png"
     },
     {
-        "name": "Science Experiments",
+        "name": "Science Experiment Videos",
         "url": "/science-experiments",
         "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
     }
