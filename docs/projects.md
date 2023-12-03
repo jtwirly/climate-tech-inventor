@@ -1,10 +1,9 @@
-# Climate Tech Projects
+# Projects
 
-## Climate Tech
 ```codecard
 [
     {
-        "name": "Tutorials for Arduino",
+        "name": "Tutorials",
         "url": "/tutorials",
         "imageUrl": "/static/mb/projects/a1-display.png",
         "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
@@ -12,27 +11,12 @@
     {
         "name": "Tutorials for the new micro:bit (V2)",
         "url": "/tutorials-v2",
-        "imageUrl": "/static/mb/projects/pet-hamster.png"
+        "imageUrl": "/static/mb/projects/clap-lights.png"
     },
     {
-        "name": "Science Experiment Videos",
-        "url": "/science-experiments",
-        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
-    },
-    {
-        "name": "Science",
-        "url": "/projects/science"
-    }
-]
-```
-
-## Other
-```codecard
-[
-    {
-        "name": "Live Coding Videos",
+        "name": "Live Coding",
         "url": "/live-coding",
-        "imageUrl": "/static/live-coding/NvEOKZ8wh9s.jpg"
+        "imageUrl": "/static/live-coding/yFviqqPlWyQ.jpg"
     },
     {
         "name": "Games",
@@ -41,6 +25,22 @@
     {
         "name": "Radio Games",
         "url": "/projects/radio-games"
+    },
+    {
+        "name": "Fashion",
+        "url": "/projects/fashion"
+    },
+    {
+        "name": "Music",
+        "url": "/projects/music"
+    },
+    {
+        "name": "Toys",
+        "url": "/projects/toys"
+    },
+    {
+        "name": "Science",
+        "url": "/projects/science"
     },
     {
         "name": "Tools",
@@ -74,6 +74,11 @@
         "name": "Behind the MakeCode Hardware",
         "url": "/behind-the-makecode-hardware",
         "imageUrl": "/static/mb/behindhardware/leds.jpg"
+    },
+    {
+        "name": "Science Experiments",
+        "url": "/science-experiments",
+        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
     },
     {
         "name": "Coding for Teachers",
