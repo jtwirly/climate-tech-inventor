@@ -1,5 +1,7 @@
 # Projects
 
+## Climate Tech
+
 * [Tutorials](/tutorials)
   * [Flashing Heart](/projects/flashing-heart)
   * [Solar-Powered LED Light](/projects/solar-powered-led-light)
@@ -11,7 +13,13 @@
 * [Tutorials for the new micro:bit (V2)](/tutorials-v2)
   * [Clap Lights](/projects/v2-clap-lights)
   * [Blow Away](/projects/v2-blow-away)
-* [Live Coding](/live-coding)
+* [Science Experiment Videos](/science-experiments)
+  * [Data Collection](https://youtu.be/tZy9Ev21B4c)
+  * [Population Trait Counter](https://youtu.be/NNZEMiJHY2o)
+  * [Temperature Sensor](https://youtu.be/pHDYsy6xyE4)
+  * [Soil Moisture Sensor](https://youtu.be/n0WRQf11Pzo)
+  * [Battery Tester](https://youtu.be/gdlc34nhjK4)
+* [Live Coding Videos](/live-coding)
   * [Hand Washing Timer](https://youtu.be/yFviqqPlWyQ)
   * [Hot Or Cold](https://youtu.be/uUeY3dHiXkE)
   * [Compass](https://youtu.be/9IyssvevhJ0)
@@ -19,6 +27,8 @@
   * [Binary Stopwatch](https://youtu.be/Jm3yxMA1mDo)
   * [Temperature](https://youtu.be/uv4NtRzMwaA)
   * [PlayList](https://www.youtube.com/playlist?list=PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC)
+
+## Other
 * [Games](/projects/games)
 * [Radio Games](/projects/radio-games)
 * [Science](/projects/science)
@@ -73,12 +83,6 @@
   * [Radio](https://youtu.be/Re3H2ISfQE8)
   * [Servo Motor](https://youtu.be/okxooamdAP4)
   * [Speakers](https://youtu.be/cxfPNc4Wefo)
-* [Science Experiments](/science-experiments)
-  * [Data Collection](https://youtu.be/tZy9Ev21B4c)
-  * [Population Trait Counter](https://youtu.be/NNZEMiJHY2o)
-  * [Temperature Sensor](https://youtu.be/pHDYsy6xyE4)
-  * [Soil Moisture Sensor](https://youtu.be/n0WRQf11Pzo)
-  * [Battery Tester](https://youtu.be/gdlc34nhjK4)
 * [Coding for Teachers](/coding-for-teachers)
   * [Part 1 - Introduction](https://youtu.be/hr8O_pslp8Q)
   * [Part 2 - Connect & Code](https://youtu.be/_cTHlQXwEO4)
