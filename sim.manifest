@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+CACHE:
+/climate-tech-inventor/pxtsim.js
+/climate-tech-inventor/sim.js
+
+/climate-tech-inventor/sounds/giggle.wav
+/climate-tech-inventor/sounds/happy.wav
+/climate-tech-inventor/sounds/hello.wav
+/climate-tech-inventor/sounds/mysterious.wav
+/climate-tech-inventor/sounds/sad.wav
+/climate-tech-inventor/sounds/slide.wav
+/climate-tech-inventor/sounds/soaring.wav
+/climate-tech-inventor/sounds/spring.wav
+/climate-tech-inventor/sounds/twinkle.wav
+/climate-tech-inventor/sounds/yawn.wav
+
+NETWORK:
+*

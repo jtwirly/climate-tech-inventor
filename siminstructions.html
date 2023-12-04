@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en" data-framework="typescript">
+
+<head>
+    <meta charset="utf-8">
+    <title>Make Instructions</title>
+    <style type="text/css">
+        @import "/climate-tech-inventor/semantic.css";
+    </style>
+    <style>
+        html {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            position: relative;
+            width: 100%;
+            height: 100%;            
+            padding: 0;
+            margin: 0;
+            font-family: "Lucida Console", Monaco, monospace;
+        }
+
+        div {
+            /*undo semantic UI*/
+            box-sizing: content-box;
+            line-height: normal;
+        }
+
+        img {
+            border: 0;
+        }
+
+        .organization {
+            position: absolute;
+            bottom: 2rem;
+            right: 2rem;
+            height: 4rem;
+        }
+
+        h1 {
+            font-size: 2em;
+            font-weight: normal;
+            color: rgba(0, 0, 0, 0.87);
+            font-family: 'Segoe UI', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            display: block;
+            text-align: center;
+        }
+
+        #front-panel .board-svg {
+            position: absolute;
+            left: 2rem;
+            width: 300px;
+            top: 16rem;
+        }
+
+        #proj-title {
+            width: 100%;
+            font-size: 55px;
+            margin-top: 20px;
+        }
+
+        #proj-code {
+            width: 300px;
+            height: 400px;
+            position: absolute;
+            right: 2rem;
+            top: 16rem;
+        }
+
+        #proj-code-container {
+            width: 100%;
+            height: 100%;
+            font-size: 4px;
+            overflow: hidden;
+            display: none;
+        }
+
+        #proj-code-spinner {
+            width: 100%;
+        }
+
+        .back-panel svg {
+            position: relative;
+            margin: 0 auto;
+            left: inherit;
+            bottom: -7px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        // This line gets patched up by the cloud
+        var pxtConfig = {
+    "relprefix": "/climate-tech-inventor/",
+    "verprefix": "",
+    "workerjs": "/climate-tech-inventor/worker.js",
+    "monacoworkerjs": "/climate-tech-inventor/monacoworker.js",
+    "gifworkerjs": "/climate-tech-inventor/gifjs/gif.worker.js",
+    "serviceworkerjs": "/climate-tech-inventor/serviceworker.js",
+    "typeScriptWorkerJs": "/climate-tech-inventor/tsworker.js",
+    "pxtVersion": "9.3.7",
+    "pxtRelId": "localDirRelId",
+    "pxtCdnUrl": "/climate-tech-inventor/",
+    "commitCdnUrl": "/climate-tech-inventor/",
+    "blobCdnUrl": "/climate-tech-inventor/",
+    "cdnUrl": "/climate-tech-inventor/",
+    "targetVersion": "0.0.0",
+    "targetRelId": "",
+    "targetUrl": "",
+    "targetId": "microbit",
+    "simUrl": "/climate-tech-inventor/simulator.html",
+    "simserviceworkerUrl": "/climate-tech-inventor/simulatorserviceworker.js",
+    "simworkerconfigUrl": "/climate-tech-inventor/workerConfig.js",
+    "partsUrl": "/climate-tech-inventor/siminstructions.html",
+    "runUrl": "/climate-tech-inventor/run.html",
+    "docsUrl": "/climate-tech-inventor/docs.html",
+    "multiUrl": "/climate-tech-inventor/multi.html",
+    "asseteditorUrl": "/climate-tech-inventor/asseteditor.html",
+    "skillmapUrl": "/climate-tech-inventor/skillmap.html",
+    "authcodeUrl": "/climate-tech-inventor/authcode.html",
+    "multiplayerUrl": "/climate-tech-inventor/multiplayer.html",
+    "kioskUrl": "/climate-tech-inventor/kiosk.html",
+    "isStatic": true
+};
+    </script>
+    <script src="/climate-tech-inventor/pxtsim.js"></script>
+    <script src="/climate-tech-inventor/common-sim.js"></script>
+    <script src="/climate-tech-inventor/sim.js"></script>
+
+    <div id="front-panel" class="instr-panel">
+        <h1 id="proj-title"></h1>
+    </div>
+</body>
+
+</html>

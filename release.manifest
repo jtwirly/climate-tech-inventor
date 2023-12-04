@@ -1,0 +1,90 @@
+CACHE MANIFEST
+
+CACHE:
+/climate-tech-inventor/semantic.js
+/climate-tech-inventor/main.js
+/climate-tech-inventor/pxtapp.js
+/climate-tech-inventor/typescript.js
+/climate-tech-inventor/marked/marked.min.js
+/climate-tech-inventor/highlight.js/highlight.pack.js
+/climate-tech-inventor/jquery.js
+/climate-tech-inventor/pxtlib.js
+/climate-tech-inventor/pxtcompiler.js
+/climate-tech-inventor/pxtpy.js
+/climate-tech-inventor/pxtblockly.js
+/climate-tech-inventor/pxteditor.js
+/climate-tech-inventor/pxtsim.js
+/climate-tech-inventor/pxtembed.js
+/climate-tech-inventor/pxtworker.js
+/climate-tech-inventor/pxtweb.js
+/climate-tech-inventor/blockly.css
+/climate-tech-inventor/semantic.css
+/climate-tech-inventor/rtlsemantic.css
+
+
+/climate-tech-inventor/editor.js
+/climate-tech-inventor/fieldeditors.js
+
+# blockly
+/climate-tech-inventor/blockly/media/sprites.png
+/climate-tech-inventor/blockly/media/click.mp3
+/climate-tech-inventor/blockly/media/disconnect.wav
+/climate-tech-inventor/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/climate-tech-inventor/vs/loader.js
+/climate-tech-inventor/vs/base/worker/workerMain.js
+/climate-tech-inventor/vs/basic-languages/bat/bat.js
+/climate-tech-inventor/vs/basic-languages/cpp/cpp.js
+/climate-tech-inventor/vs/basic-languages/python/python.js
+/climate-tech-inventor/vs/basic-languages/typescript/typescript.js
+/climate-tech-inventor/vs/basic-languages/markdown/markdown.js
+/climate-tech-inventor/vs/editor/editor.main.css
+/climate-tech-inventor/vs/editor/editor.main.js
+/climate-tech-inventor/vs/editor/editor.main.nls.js
+/climate-tech-inventor/vs/language/json/jsonMode.js
+/climate-tech-inventor/vs/language/json/jsonWorker.js
+/climate-tech-inventor/vs/language/typescript/tsMode.js
+/climate-tech-inventor/vs/language/typescript/tsWorker.js
+
+# charts
+/climate-tech-inventor/smoothie/smoothie_compressed.js
+/climate-tech-inventor/images/Bars_black.gif
+
+# gifjs
+/climate-tech-inventor/gifjs/gif.js
+
+# ai
+/climate-tech-inventor/ai.0.js
+
+/climate-tech-inventor/worker.js
+/climate-tech-inventor/monacoworker.js
+
+# ver Mon Dec 04 2023 00:45:19 GMT-0500 (Eastern Standard Time)
+
+# target
+/climate-tech-inventor/docs/static/providers/github-mark.png
+/climate-tech-inventor/docs/static/providers/microsoft-logo.svg
+/climate-tech-inventor/docs/static/providers/google-logo.svg
+/climate-tech-inventor/docs/static/providers/clever-logo.png
+/climate-tech-inventor/docs/static/logo.portrait.white.svg
+/climate-tech-inventor/docs/static/logo.square.white.svg
+/climate-tech-inventor/docs/static/logo.portrait.black.svg
+/climate-tech-inventor/docs/static/icons/apple-touch-icon.png
+/climate-tech-inventor/docs/static/Microsoft_logo_rgb_W-white_D-square.png
+/climate-tech-inventor/docs/static/Microsoft_logo_rgb_W-white_D.png
+/climate-tech-inventor/docs/static/herogallery/hero-banner.png
+/climate-tech-inventor/docs/static/download/transfer.png
+/climate-tech-inventor/docs/static/download/connect-microbit.gif
+/climate-tech-inventor/docs/static/download/selecting-microbit.gif
+/climate-tech-inventor/docs/static/download/successfully-paired.png
+/climate-tech-inventor/docs/static/download/incompatible.png
+/climate-tech-inventor/docs/static/download/device-forgotten.gif
+/climate-tech-inventor/docs/static/download/browser-unpair-image.gif
+/climate-tech-inventor/docs/static/winapp.PNG
+/climate-tech-inventor/docs/static/profile/microbit-cloud.png
+
+/climate-tech-inventor/target.js
+
+NETWORK:
+*
