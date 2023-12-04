@@ -397,7 +397,7 @@
     },
     "uploadDocs": true,
     "versions": {
-        "target": "6.1.8",
+        "target": "6.1.9",
         "pxt": "9.3.7"
     },
     "blocksprj": {
